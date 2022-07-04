@@ -1,0 +1,36 @@
+
+/* The CSS Box Model */
+.navbox {
+    background: steelblue;
+    width: 300px;
+    margin:25px;
+    border-width: 3px;
+    border-color: rgb(14, 17, 14);
+    border-style:solid;
+    padding: 20px;
+
+}
+
+body{
+    background-color: slategray; 
+    color: bisque; 
+    font-size: 30px;
+    text-align: center;    
+}
+
+nav {
+    background: gray;
+    font-size: 23px;    
+}
+
+.top-section {
+background: pink;
+}
+
+.bottom-section {
+background-color: green;
+}
+
+.Spear {
+    text-align: center;
+}
